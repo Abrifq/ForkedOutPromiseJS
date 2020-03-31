@@ -1,0 +1,26 @@
+{
+  "name": "forked-out-promise",
+  "version": "1.0.1",
+  "description": "Construct promises with their resolve and reject functions exported.",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbarda/ForkedOutPromiseJS.git"
+  },
+  "keywords": [
+    "promise",
+    "external",
+    "resolve",
+    "reject",
+    "async"
+  ],
+  "author": "fbarda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fbarda/ForkedOutPromiseJS/issues"
+  },
+  "homepage": "https://github.com/fbarda/ForkedOutPromiseJS"
+}
